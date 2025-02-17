@@ -2,7 +2,7 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AHmed-seo.github.io/frog-ecom",
+  "homepage": "https://AHmed-seo.github.io/Ecom",
   "type": "module",
   "scripts": {
     "dev": "vite",
